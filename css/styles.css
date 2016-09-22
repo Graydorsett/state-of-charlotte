@@ -3,6 +3,7 @@
 
 body {
     margin-top: 50px;
+    font-family: Arial;
 }
 
 /*Nav Bar */
@@ -20,6 +21,7 @@ body {
 #navbar {
     margin: auto;
     text-align: center;
+    background-color:#ca0002;
     /*clear:both;*/
 
 }
